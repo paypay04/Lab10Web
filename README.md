@@ -1,5 +1,12 @@
 # Lab10Web
 
+- **Nama Lengkap** : Vivi Alydia  
+- **NIM** : 312410224  
+- **Kelas** : TI.24.A2
+- **Mata Kuliah** : Pemrograman Web 1
+
+---
+  
 # Tampilan dashboard
 
 <img width="944" height="822" alt="image" src="https://github.com/user-attachments/assets/969d84f2-726c-4357-a299-34c048597fbe" />
